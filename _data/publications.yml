@@ -1,0 +1,11 @@
+main:
+
+  - title: DaCapo: Accelerating Continuous Learning in Autonomous Systems for Video Analytics
+    authors: Yoonsung Kim, Changhun Oh, Jinwoo Hwang, Wonung Kim, Seongryong Oh, <strong>Yubin Lee</strong>, Hardik Sharma, Amir Yazdanbakhsh, Jongse Park
+    conference_short: ISCA
+    conference: 51st Annual International Symposium on Computer Architecture 2024 <strong>(ISCA'24)</strong>
+    # pdf: https://arxiv.org/pdf/2306.00988.pdf
+    # code: https://github.com/MrGiovanni/ContinualLearning
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    # image: ./assets/img/teaser_example_2.png
+    # notes: Early Accept
