@@ -29,6 +29,7 @@ I am a MS student in EE at <a href="https://kaist.ac.kr">KAIST</a>, advised by <
 - 2017.06: Outstanding Pearson Learner Award (International GCSE Highest Mark in Lebanon): Physics, Chemistry, Biology, History
 
 ## Teaching Experiences
+- 2024 Fall: CS230 System Programming TA (Prof. Jongse Park)
 - 2024 Spring: CS311 Computer Organization TA (Prof. Jongse Park)
 - 2022 Fall: Freshman Tutor for CS101 Introduction to Programming
 - 2022 Spring: Freshman Tutor for CS101 Introduction to Programming
