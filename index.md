@@ -8,9 +8,8 @@ I am a MS student in EE at <a href="https://kaist.ac.kr">KAIST</a>, advised by <
 
 ## Research Interests
 
-- DNN Accelerators
-- Quantization of DNN Models
-- ML Acceleration on Edge Devices
+- Robotics Acceleration
+- Acceleration of Workloads on Edge Devices
 
 ## Education
 - 2024.03 - present: MS in Electrical Engineering, KAIST
