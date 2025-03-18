@@ -29,9 +29,9 @@ I am a MS student in EE at <a href="https://kaist.ac.kr">KAIST</a>, advised by <
 - 2017.06: Outstanding Pearson Learner Award (International GCSE Highest Mark in Lebanon): Physics, Chemistry, Biology, History
 
 ## Teaching Experiences
-- 2025 Spring: EE209 Programming Structures for Electrical Engineering TA (Prof. Jaemin Yoo)
-- 2024 Fall: CS230 System Programming TA (Prof. Jongse Park)
-- 2024 Spring: CS311 Computer Organization TA (Prof. Jongse Park)
+- 2025 Spring: TA for EE209 Programming Structures for Electrical Engineering (Prof. Jaemin Yoo)
+- 2024 Fall: TA for CS230 System Programming (Prof. Jongse Park)
+- 2024 Spring: TA for CS311 Computer Organization (Prof. Jongse Park)
 - 2022 Fall: Freshman Tutor for CS101 Introduction to Programming
 - 2022 Spring: Freshman Tutor for CS101 Introduction to Programming
 - 2021 Fall: Freshman Tutor for CS101 Introduction to Programming
