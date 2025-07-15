@@ -22,6 +22,7 @@ I am a MS student in EE at <a href="https://kaist.ac.kr">KAIST</a>, advised by <
 ## Honors and Awards
 - 2025.02.12: Gold Prize, Samsung Humantech Paper Awards (Computer Science & Engineering Section)
 - 2024.07-2025.06: Research Encouragement Grant for Master's Students, National Research Foundation of Korea
+- 2024.07: Distinguished Artifact Award, ACM SIGARCH - IEEE CS TCCA (ISCA 2024)
 - 2022.03-2023.08: National Science & Technology Scholarship, Ministry of Science and ICT of South Korea
 - 2021.02.16: Dean’s List, KAIST College of Engineering (Fall 2020)
 - 2020.03.19: Dean’s List, KAIST School of Freshman (Fall 2019)
