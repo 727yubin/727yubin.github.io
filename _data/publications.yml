@@ -3,7 +3,7 @@ main:
     authors: Wonung Kim, <strong>Yubin Lee</strong>, Yoonsung Kim, Jinwoo Hwang, Seongryong Oh, Jiyong Jung, Aziz Huseynov, Woong Gyu Park, Chang Hyun Park, Divya Mahajan, Jongse Park
     conference_short: MICRO
     conference: 58th IEEE/ACM International Symposium on Microarchitecture <strong>(MICRO'25)</strong>
-    # pdf: https://arxiv.org/pdf/2403.14353.pdf
+    pdf: https://arxiv.org/pdf/2507.10178.pdf
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/pimba.png
