@@ -20,7 +20,7 @@ I am a MS student in EE at <a href="https://kaist.ac.kr">KAIST</a>, advised by <
 - 2021.12 - 2022.02: Undergraduate Student Intern, CASYS Lab (Prof. Jongse Park)
 
 ## Honors and Awards
-- 2025.02.12: Gold Prize, Samsung Humantech Paper Awards (Computer Science & Engineering Section)
+- 2025.02.12: Gold Prize, Samsung Humantech Paper Awards (Computer Science & Engineering Section, 2nd Author)
 - 2024.07-2025.06: Research Encouragement Grant for Master's Students, National Research Foundation of Korea
 - 2024.07: Distinguished Artifact Award, ACM SIGARCH - IEEE CS TCCA (ISCA 2024)
 - 2022.03-2023.08: National Science & Technology Scholarship, Ministry of Science and ICT of South Korea
