@@ -12,6 +12,7 @@ I am a MS student in EE at <a href="https://kaist.ac.kr">KAIST</a>, advised by <
 - Acceleration of Workloads on Edge Devices
 
 ## Education
+- Starting March 2026: PhD in Electrical Engineering, KAIST
 - 2024.03 - present: MS in Electrical Engineering, KAIST
 - 2019.09 - 2024.02: BS in Computer Science & Minor in Electrical Engineering, KAIST (Cum Laude)
 
