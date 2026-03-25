@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a MS student in EE at <a href="https://kaist.ac.kr">KAIST</a>, advised by <a href="https://jongse-park.github.io">Prof. Jongse Park</a>. I am a member of <a href="https://casyslab.kaist.ac.kr">CASYS Lab</a>.
+I am a PhD student in EE at <a href="https://kaist.ac.kr">KAIST</a>, advised by <a href="https://jongse-park.github.io">Prof. Jongse Park</a>. I am a member of <a href="https://casyslab.kaist.ac.kr">CASYS Lab</a>.
 
 ## Research Interests
 
